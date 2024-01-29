@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hotel Class Added sucessfully
-=======
-Booked Room adeed sucessfully
->>>>>>> Feature/BookRoom
+Hotel Calss added sucessfully
+BookRoom funtion added
