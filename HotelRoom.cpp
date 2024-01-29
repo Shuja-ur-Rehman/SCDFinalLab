@@ -1,1 +1,1 @@
-Booked Room funtion Added in Main Hotel Class
+Hotel Class Added sucessfully
